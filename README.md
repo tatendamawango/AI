@@ -1,6 +1,6 @@
 # Artificial Intelligence Labs
 
-This repository contains a collection of AI-focused laboratory works developed during the *Introduction to Artificial Intelligence* course at Kaunas University of Technology. Each notebook demonstrates key concepts in data analysis, forecasting, machine learning, and probabilistic modeling.
+This repository contains a collection of AI-focused works. Each notebook demonstrates key concepts in data analysis, forecasting, machine learning, and probabilistic modeling.
 
 ---
 
