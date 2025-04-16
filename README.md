@@ -1,4 +1,4 @@
-# Artificial Intelligence Labs
+# Artificial Intelligence Methods
 
 This repository contains a collection of AI-focused works. Each notebook demonstrates key concepts in data analysis, forecasting, machine learning, and probabilistic modeling.
 
